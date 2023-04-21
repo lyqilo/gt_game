@@ -1,0 +1,27 @@
+
+huangguan.png
+size: 592,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiseguangxiao
+  rotate: false
+  xy: 2, 9
+  size: 321, 304
+  orig: 377, 334
+  offset: 54, 27
+  index: -1
+guangshu
+  rotate: false
+  xy: 325, 2
+  size: 265, 311
+  orig: 265, 311
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 2, 315
+  size: 553, 460
+  orig: 553, 460
+  offset: 0, 0
+  index: -1

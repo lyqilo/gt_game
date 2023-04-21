@@ -1,0 +1,125 @@
+
+3D buyu.png
+size: 636,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang
+  rotate: false
+  xy: 496, 77
+  size: 131, 69
+  orig: 131, 69
+  offset: 0, 0
+  index: -1
+baoxiang gai
+  rotate: false
+  xy: 231, 6
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+bg 1
+  rotate: false
+  xy: 496, 148
+  size: 136, 122
+  orig: 136, 122
+  offset: 0, 0
+  index: -1
+bg 2
+  rotate: true
+  xy: 432, 17
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+cao
+  rotate: true
+  xy: 349, 15
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+jinbi 1
+  rotate: true
+  xy: 511, 17
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+jinbi 2
+  rotate: false
+  xy: 573, 26
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+jinbi 3
+  rotate: false
+  xy: 571, 46
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 2, 11
+  size: 227, 259
+  orig: 227, 259
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 231, 66
+  size: 263, 204
+  orig: 272, 226
+  offset: 6, 19
+  index: -1
+yan
+  rotate: false
+  xy: 511, 43
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+yanbai you
+  rotate: false
+  xy: 573, 12
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+yanbai zuo
+  rotate: true
+  xy: 614, 57
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+yanpi you
+  rotate: false
+  xy: 605, 21
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+yanpi zuo
+  rotate: false
+  xy: 544, 19
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+yanqiu you
+  rotate: false
+  xy: 349, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yanqiu zuo
+  rotate: false
+  xy: 432, 3
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

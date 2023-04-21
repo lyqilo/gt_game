@@ -1,0 +1,111 @@
+
+shuiguoji.png
+size: 784,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiseguangxiao
+  rotate: false
+  xy: 564, 42
+  size: 44, 46
+  orig: 58, 51
+  offset: 8, 4
+  index: -1
+ningmeng
+  rotate: true
+  xy: 267, 6
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+pingguo
+  rotate: false
+  xy: 452, 90
+  size: 161, 125
+  orig: 161, 126
+  offset: 0, 0
+  index: -1
+pingguogan
+  rotate: true
+  xy: 412, 40
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+pingguoyezi
+  rotate: true
+  xy: 741, 82
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+putao
+  rotate: false
+  xy: 267, 78
+  size: 183, 137
+  orig: 183, 137
+  offset: 0, 0
+  index: -1
+putaoyezi
+  rotate: false
+  xy: 615, 9
+  size: 124, 93
+  orig: 124, 95
+  offset: 0, 1
+  index: -1
+putaoyezi2
+  rotate: false
+  xy: 741, 37
+  size: 39, 43
+  orig: 39, 44
+  offset: 0, 1
+  index: -1
+putaoyezi3
+  rotate: true
+  xy: 341, 11
+  size: 65, 69
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+putaoyezi4
+  rotate: true
+  xy: 724, 163
+  size: 52, 43
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 11
+  size: 263, 204
+  orig: 272, 226
+  offset: 3, 19
+  index: -1
+xigua
+  rotate: false
+  xy: 615, 104
+  size: 107, 111
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+xiguayezi
+  rotate: false
+  xy: 412, 10
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+yingtao
+  rotate: true
+  xy: 452, 5
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+yingtaoyezi
+  rotate: true
+  xy: 564, 2
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1

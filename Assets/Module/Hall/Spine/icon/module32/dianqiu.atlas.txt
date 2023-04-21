@@ -1,0 +1,55 @@
+
+dianqiu.png
+size: 640,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 267, 2
+  size: 61, 110
+  orig: 67, 119
+  offset: 3, 5
+  index: -1
+jiangbei you
+  rotate: true
+  xy: 267, 65
+  size: 146, 235
+  orig: 146, 235
+  offset: 0, 0
+  index: -1
+jiangbei zuo
+  rotate: false
+  xy: 504, 37
+  size: 133, 174
+  orig: 133, 174
+  offset: 0, 0
+  index: -1
+jiangpai 1
+  rotate: true
+  xy: 379, 25
+  size: 38, 78
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+jiangpai 2
+  rotate: false
+  xy: 459, 7
+  size: 33, 56
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+jiangpai 3
+  rotate: false
+  xy: 494, 7
+  size: 8, 56
+  orig: 8, 56
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 7
+  size: 263, 204
+  orig: 272, 226
+  offset: 6, 19
+  index: -1

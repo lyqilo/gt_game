@@ -1,0 +1,125 @@
+
+shuiguo7.png
+size: 692,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+70
+  rotate: true
+  xy: 577, 63
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+71
+  rotate: false
+  xy: 493, 58
+  size: 82, 82
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+72
+  rotate: false
+  xy: 493, 142
+  size: 120, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 662, 32
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 450, 17
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+cion3
+  rotate: false
+  xy: 228, 4
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+cion4
+  rotate: false
+  xy: 365, 9
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+cion5
+  rotate: true
+  xy: 662, 7
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+cion6
+  rotate: false
+  xy: 322, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+cion7
+  rotate: false
+  xy: 275, 4
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 412, 5
+  size: 36, 38
+  orig: 37, 38
+  offset: 1, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 546, 5
+  size: 51, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dibg
+  rotate: false
+  xy: 2, 4
+  size: 224, 245
+  orig: 224, 245
+  offset: 0, 0
+  index: -1
+ningmeng
+  rotate: true
+  xy: 497, 8
+  size: 48, 47
+  orig: 50, 47
+  offset: 1, 0
+  index: -1
+tao
+  rotate: false
+  xy: 592, 2
+  size: 68, 59
+  orig: 68, 61
+  offset: 0, 1
+  index: -1
+title
+  rotate: false
+  xy: 228, 45
+  size: 263, 204
+  orig: 272, 226
+  offset: 5, 19
+  index: -1
+xigua
+  rotate: false
+  xy: 615, 176
+  size: 75, 73
+  orig: 76, 74
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+paomadeng.png
+size: 1848,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng1
+  rotate: false
+  xy: 1734, 49
+  size: 100, 32
+  orig: 144, 34
+  offset: 44, 1
+  index: -1
+deng12
+  rotate: false
+  xy: 1391, 230
+  size: 299, 54
+  orig: 309, 130
+  offset: 0, 76
+  index: -1
+deng13
+  rotate: false
+  xy: 1096, 201
+  size: 293, 83
+  orig: 306, 131
+  offset: 0, 47
+  index: -1
+deng14
+  rotate: true
+  xy: 1734, 83
+  size: 201, 112
+  orig: 210, 128
+  offset: 0, 16
+  index: -1
+deng15
+  rotate: false
+  xy: 1421, 28
+  size: 185, 132
+  orig: 194, 136
+  offset: 0, 3
+  index: -1
+deng16
+  rotate: false
+  xy: 1253, 6
+  size: 166, 125
+  orig: 177, 126
+  offset: 2, 1
+  index: -1
+deng17
+  rotate: true
+  xy: 1608, 51
+  size: 143, 124
+  orig: 152, 126
+  offset: 0, 1
+  index: -1
+deng18
+  rotate: false
+  xy: 632, 57
+  size: 155, 122
+  orig: 159, 124
+  offset: 0, 1
+  index: -1
+deng19
+  rotate: false
+  xy: 1036, 5
+  size: 215, 126
+  orig: 218, 130
+  offset: 0, 1
+  index: -1
+deng2
+  rotate: false
+  xy: 784, 2
+  size: 162, 32
+  orig: 206, 34
+  offset: 44, 1
+  index: -1
+deng20
+  rotate: false
+  xy: 789, 36
+  size: 245, 112
+  orig: 253, 119
+  offset: 5, 0
+  index: -1
+deng21
+  rotate: false
+  xy: 794, 184
+  size: 300, 100
+  orig: 311, 117
+  offset: 5, 0
+  index: -1
+deng22
+  rotate: false
+  xy: 1391, 196
+  size: 320, 32
+  orig: 364, 135
+  offset: 0, 1
+  index: -1
+deng23
+  rotate: false
+  xy: 1391, 196
+  size: 320, 32
+  orig: 364, 135
+  offset: 0, 1
+  index: -1
+deng24
+  rotate: false
+  xy: 1391, 196
+  size: 320, 32
+  orig: 364, 135
+  offset: 0, 1
+  index: -1
+deng25
+  rotate: false
+  xy: 1391, 196
+  size: 320, 32
+  orig: 364, 135
+  offset: 0, 1
+  index: -1
+deng26
+  rotate: false
+  xy: 1391, 196
+  size: 320, 32
+  orig: 364, 135
+  offset: 0, 1
+  index: -1
+deng27
+  rotate: false
+  xy: 1391, 196
+  size: 320, 32
+  orig: 325, 135
+  offset: 0, 1
+  index: -1
+deng28
+  rotate: false
+  xy: 794, 150
+  size: 312, 32
+  orig: 312, 135
+  offset: 0, 1
+  index: -1
+deng29
+  rotate: false
+  xy: 1108, 133
+  size: 235, 32
+  orig: 235, 135
+  offset: 0, 1
+  index: -1
+deng3
+  rotate: false
+  xy: 1369, 162
+  size: 216, 32
+  orig: 260, 34
+  offset: 44, 1
+  index: -1
+deng30
+  rotate: false
+  xy: 635, 23
+  size: 147, 32
+  orig: 147, 135
+  offset: 0, 1
+  index: -1
+deng4
+  rotate: false
+  xy: 1108, 167
+  size: 259, 32
+  orig: 303, 34
+  offset: 44, 1
+  index: -1
+deng5
+  rotate: false
+  xy: 324, 19
+  size: 309, 32
+  orig: 353, 34
+  offset: 44, 1
+  index: -1
+deng6
+  rotate: false
+  xy: 2, 19
+  size: 320, 32
+  orig: 364, 34
+  offset: 44, 1
+  index: -1
+deng10
+  rotate: false
+  xy: 2, 19
+  size: 320, 32
+  orig: 364, 34
+  offset: 44, 1
+  index: -1
+deng11
+  rotate: false
+  xy: 2, 19
+  size: 320, 32
+  orig: 325, 34
+  offset: 5, 1
+  index: -1
+deng7
+  rotate: false
+  xy: 2, 19
+  size: 320, 32
+  orig: 364, 34
+  offset: 44, 1
+  index: -1
+deng8
+  rotate: false
+  xy: 2, 19
+  size: 320, 32
+  orig: 364, 34
+  offset: 44, 1
+  index: -1
+deng9
+  rotate: false
+  xy: 2, 19
+  size: 320, 32
+  orig: 364, 34
+  offset: 44, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 181
+  size: 790, 103
+  orig: 810, 114
+  offset: 10, 0
+  index: -1
+paomadeng
+  rotate: false
+  xy: 2, 53
+  size: 628, 126
+  orig: 629, 128
+  offset: 1, 1
+  index: -1

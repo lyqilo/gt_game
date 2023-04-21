@@ -1,0 +1,83 @@
+
+bairenniuniu.png
+size: 680,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi
+  rotate: true
+  xy: 430, 5
+  size: 67, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: false
+  xy: 630, 13
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: true
+  xy: 343, 14
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+pai3
+  rotate: false
+  xy: 521, 15
+  size: 11, 57
+  orig: 11, 58
+  offset: 0, 1
+  index: -1
+pai4
+  rotate: false
+  xy: 644, 139
+  size: 31, 71
+  orig: 31, 71
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 267, 61
+  size: 161, 149
+  orig: 163, 149
+  offset: 1, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 540, 81
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 6
+  size: 263, 204
+  orig: 272, 226
+  offset: 5, 19
+  index: -1
+tou
+  rotate: false
+  xy: 430, 74
+  size: 108, 136
+  orig: 108, 136
+  offset: 0, 0
+  index: -1
+yixiu
+  rotate: true
+  xy: 540, 7
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 267, 2
+  size: 74, 57
+  orig: 76, 60
+  offset: 1, 2
+  index: -1

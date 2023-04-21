@@ -1,0 +1,103 @@
+{
+  "Urls": [
+    "18.140.146.117:8080"
+  ],
+  "PCUrls": [
+    "18.140.146.117:8080"
+  ],
+  "version": 1.0,
+  "IsForbidEmulator" : false,
+  "ShowDebug": true,
+  "isUseDefence": false,
+  "isUseLoginIP": false,
+  "isUseGameIP": false,
+  "platformId": 6,
+  "LoginIP": "127.0.0.1",
+  "GameIP": "127.0.0.1",
+  "PCLoginIP": "127.2.21.96",
+  "PCGameIP": "127.2.21.96",
+  "DefenceLoginIP": "127.0.0.1",
+  "DefenceGameIP": "127.0.0.1",
+  "DefencePCLoginIP": "127.2.21.96",
+  "DefencePCGameIP": "127.2.21.96",
+  "REQLoginList": [
+    "127.0.0.1",
+    "127.0.0.1",
+    "127.0.0.1",
+    "127.0.0.1"
+  ],
+  "REQGameList": [
+    "127.0.0.1",
+    "127.0.0.1",
+    "127.0.0.1",
+    "127.0.0.1"
+  ],
+  "PCREQLoginList": [
+    "127.2.21.96",
+    "127.2.21.96",
+    "127.2.21.96",
+    "127.2.21.96"
+  ],
+  "PCREQGameList": [
+    "127.2.21.96",
+    "127.2.21.96",
+    "127.2.21.96",
+    "127.2.21.96"
+  ],
+  "GWUrl": "http://www.zy999.me",
+  "PCUrl": "http://yuyul.oss-cn-beijing.aliyuncs.com/LFCRes/lfc_setup.exe",
+  "PC32Url": "http://yuyul.oss-cn-beijing.aliyuncs.com/LFCRes/lfc_setup.exe",
+  "AndroidUrl": "http://yuyul.oss-cn-beijing.aliyuncs.com/LFCRes/lfc.apk",
+  "iOSUrl": "https://wert2.jvoladz.cn/s/oYUE?key=646Y563I6F6M46503134634S3332836G3030239036&c=",
+  "IPUrls": [
+    "https://ipv4.ddnspod.com",
+    "https://myip.ipip.net",
+    "https://ddns.oray.com/checkip",
+    "https://speed.neu.edu.cn/getIP.php",
+    "http://ifconfig.me/ip",
+    "https://api.ipify.org",
+    "http://ip.myhostadmin.net"
+  ],
+  "GameList": {
+    "games_Main": {
+      "hasFix": true,
+      "group": [
+		"62",
+		"27",
+		"51",
+		"63",
+		"59",
+		"42",
+		"28",
+		"46",
+        "6",
+		"38",
+        "57",
+        "18",
+		"40",
+		"44",
+		"58",
+        "17",
+		"19",
+		"3",
+		"20"
+      ]
+    }
+  },
+  "MoneyRate": 15000,
+  "CNameGold": "改名消耗10w金币",
+  "ExchangeNumber": 20000,
+  "TransferConfig": [
+    10,
+    20,
+    50,
+    100,
+    500
+  ],
+  "gameList": {
+    "AllGame": [62,6,55,20,19,43,57,40,54,21,49,58,32,59,42,44,63,41,27,33,28,39,22],
+    "Fish": [62,6],
+    "Poker": [55,20,19,43],
+    "Slot": [57,40,54,21,49,58,32,59,42,44,63,41,27,33,28,39,22]
+  }
+}

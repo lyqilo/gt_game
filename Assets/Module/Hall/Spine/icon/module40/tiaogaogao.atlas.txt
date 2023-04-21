@@ -1,0 +1,62 @@
+
+tiaogaogao.png
+size: 616,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 342, 6
+  size: 34, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 554, 10
+  size: 34, 52
+  orig: 34, 54
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 378, 6
+  size: 34, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+51
+  rotate: true
+  xy: 289, 2
+  size: 34, 51
+  orig: 34, 55
+  offset: 0, 2
+  index: -1
+bg
+  rotate: true
+  xy: 2, 20
+  size: 222, 285
+  orig: 222, 285
+  offset: 0, 0
+  index: -1
+gan
+  rotate: true
+  xy: 414, 9
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 554, 64
+  size: 178, 58
+  orig: 204, 65
+  offset: 13, 3
+  index: -1
+title1
+  rotate: false
+  xy: 289, 38
+  size: 263, 204
+  orig: 272, 226
+  offset: 5, 19
+  index: -1

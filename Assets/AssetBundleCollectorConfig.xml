@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="2.2">
+  <Common AutoAddressable="True" UniqueBundleName="False" ShowPackageView="False" ShowEditorAlias="False" />
+  <Package PackageName="HallPackage" PackageDesc="大厅">
+    <Group GroupName="Hall" GroupDesc="界面" AssetTags="">
+      <Collector CollectPath="Assets/Module/Hall/Prefab" CollectGUID="58bacdaf3a027c340af5467d90e3076c" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectPrefab" AssetTags="" />
+      <Collector CollectPath="Assets/TempLua/Out" CollectGUID="" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+      <Collector CollectPath="Assets/Scene" CollectGUID="0e0c511e9c82c1043bb61464e6488d6f" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectAll" AssetTags="" />
+      <Collector CollectPath="Assets/Module/Hall/Texture/SJ" CollectGUID="e8b6c3f7502840a4d931f7b35c78e01d" CollectType="DependAssetCollector" AddressRule="AddressByFileName" PackRule="PackTopDirectory" FilterRule="CollectSprite" AssetTags="" />
+      <Collector CollectPath="Assets/Res/CodeAOT" CollectGUID="" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectAll" AssetTags="" />
+      <Collector CollectPath="Assets/Module/Hall/SpriteAtlas/Hall_Title.spriteatlas" CollectGUID="939c22ab1c30a95478a38d2c64ea243a" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectAll" AssetTags="" />
+      <Collector CollectPath="Assets/Module/Hall/SpriteAtlas/Hall_LeaderBoard.spriteatlas" CollectGUID="ff2edc13e6ac05c44aa4c9a0ab5ca6a1" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectAll" AssetTags="" />
+      <Collector CollectPath="Assets/Module/Hall/SpriteAtlas/Hall_Item.spriteatlas" CollectGUID="79e4e5c5f7bf94d4da82cd8bec522288" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+  </Package>
+  <Package PackageName="LaunchPackage" PackageDesc="loading界面">
+    <Group GroupName="Launch" GroupDesc="loading" AssetTags="">
+      <Collector CollectPath="Assets/Module/Launch/Prefab" CollectGUID="cf2c72daf0c4ab84cbdfd00eb57647e3" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectPrefab" AssetTags="" />
+    </Group>
+  </Package>
+</root>

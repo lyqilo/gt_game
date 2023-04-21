@@ -1,0 +1,62 @@
+
+huodongzhuanpan.png
+size: 1327,606
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPIN
+  rotate: false
+  xy: 1150, 183
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+guangshu
+  rotate: false
+  xy: 608, 49
+  size: 192, 13
+  orig: 192, 14
+  offset: 0, 1
+  index: -1
+guangshu yuan
+  rotate: false
+  xy: 1150, 304
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1
+waiquan
+  rotate: false
+  xy: 2, 2
+  size: 604, 602
+  orig: 604, 603
+  offset: 0, 1
+  index: -1
+waiquan 2
+  rotate: false
+  xy: 608, 64
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+xuankuang
+  rotate: false
+  xy: 1150, 412
+  size: 175, 192
+  orig: 175, 192
+  offset: 0, 0
+  index: -1
+zhizhen
+  rotate: false
+  xy: 1150, 104
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+zhizhenhong
+  rotate: true
+  xy: 608, 5
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1

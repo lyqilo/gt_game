@@ -1,0 +1,76 @@
+
+tongbiniuniu.png
+size: 664,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip
+  rotate: false
+  xy: 552, 89
+  size: 106, 94
+  orig: 107, 94
+  offset: 1, 0
+  index: -1
+guang
+  rotate: false
+  xy: 443, 5
+  size: 49, 49
+  orig: 58, 51
+  offset: 5, 1
+  index: -1
+jinbi 1
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+jinbi 2
+  rotate: false
+  xy: 586, 17
+  size: 73, 70
+  orig: 73, 73
+  offset: 0, 3
+  index: -1
+pai1
+  rotate: true
+  xy: 443, 56
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: false
+  xy: 443, 179
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+pai3
+  rotate: true
+  xy: 552, 185
+  size: 100, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 39
+  size: 233, 246
+  orig: 233, 246
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 520, 2
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 237, 22
+  size: 263, 204
+  orig: 272, 226
+  offset: 5, 19
+  index: -1

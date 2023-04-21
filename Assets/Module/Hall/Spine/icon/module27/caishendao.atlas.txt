@@ -1,0 +1,104 @@
+
+caishendao.png
+size: 824,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huzi you
+  rotate: false
+  xy: 799, 52
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+huzi zuo
+  rotate: false
+  xy: 736, 61
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 757, 49
+  size: 39, 40
+  orig: 52, 45
+  offset: 8, 4
+  index: -1
+light2
+  rotate: true
+  xy: 736, 8
+  size: 39, 40
+  orig: 52, 45
+  offset: 8, 4
+  index: -1
+light3
+  rotate: false
+  xy: 778, 11
+  size: 36, 36
+  orig: 46, 41
+  offset: 6, 4
+  index: -1
+maozi you
+  rotate: false
+  xy: 761, 90
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+maozi zuo
+  rotate: true
+  xy: 703, 38
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+piaodai you
+  rotate: false
+  xy: 761, 122
+  size: 57, 84
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+piaodai you1
+  rotate: true
+  xy: 626, 8
+  size: 60, 75
+  orig: 69, 76
+  offset: 9, 1
+  index: -1
+piaodai zuo
+  rotate: true
+  xy: 541, 11
+  size: 57, 83
+  orig: 61, 102
+  offset: 4, 0
+  index: -1
+piaodai zuo1
+  rotate: false
+  xy: 695, 101
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 267, 12
+  size: 194, 272
+  orig: 194, 272
+  offset: 0, 0
+  index: -1
+ren1
+  rotate: false
+  xy: 541, 70
+  size: 152, 136
+  orig: 158, 144
+  offset: 5, 5
+  index: -1
+title
+  rotate: false
+  xy: 2, 2
+  size: 263, 204
+  orig: 272, 226
+  offset: 4, 19
+  index: -1

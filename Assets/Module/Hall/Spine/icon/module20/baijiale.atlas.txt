@@ -1,0 +1,104 @@
+
+baijiale.png
+size: 800,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip
+  rotate: false
+  xy: 494, 4
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+chip1
+  rotate: false
+  xy: 639, 23
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+eryou
+  rotate: true
+  xy: 594, 4
+  size: 49, 43
+  orig: 51, 46
+  offset: 0, 3
+  index: -1
+eryou1
+  rotate: false
+  xy: 531, 4
+  size: 28, 37
+  orig: 55, 61
+  offset: 27, 0
+  index: -1
+erzuo
+  rotate: true
+  xy: 427, 3
+  size: 38, 65
+  orig: 60, 65
+  offset: 22, 0
+  index: -1
+erzuo1
+  rotate: true
+  xy: 762, 17
+  size: 58, 28
+  orig: 60, 62
+  offset: 0, 34
+  index: -1
+poker1
+  rotate: false
+  xy: 698, 11
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+poker2
+  rotate: true
+  xy: 561, 8
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+renwu
+  rotate: true
+  xy: 364, 43
+  size: 174, 226
+  orig: 178, 226
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 592, 55
+  size: 104, 162
+  orig: 104, 162
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 13
+  size: 263, 204
+  orig: 272, 226
+  offset: 4, 19
+  index: -1
+toufa1
+  rotate: false
+  xy: 267, 17
+  size: 95, 200
+  orig: 95, 201
+  offset: 0, 1
+  index: -1
+toufa2
+  rotate: false
+  xy: 698, 77
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 364, 2
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1

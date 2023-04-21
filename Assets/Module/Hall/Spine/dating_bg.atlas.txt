@@ -1,0 +1,69 @@
+
+dating_bg.png
+size: 1800,867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datingbeijing
+  rotate: false
+  xy: 2, 115
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+guangshu l1
+  rotate: true
+  xy: 883, 54
+  size: 59, 441
+  orig: 59, 441
+  offset: 0, 0
+  index: -1
+guangshu r1
+  rotate: true
+  xy: 883, 54
+  size: 59, 441
+  orig: 59, 441
+  offset: 0, 0
+  index: -1
+guangshu l2
+  rotate: true
+  xy: 443, 17
+  size: 96, 438
+  orig: 98, 442
+  offset: 2, 2
+  index: -1
+guangshu r2
+  rotate: true
+  xy: 443, 17
+  size: 96, 438
+  orig: 98, 442
+  offset: 2, 2
+  index: -1
+guangshu l3
+  rotate: false
+  xy: 1628, 10
+  size: 141, 429
+  orig: 145, 436
+  offset: 2, 3
+  index: -1
+guangshu l4
+  rotate: true
+  xy: 2, 2
+  size: 111, 439
+  orig: 118, 440
+  offset: 5, 1
+  index: -1
+guangshu r3
+  rotate: true
+  xy: 2, 2
+  size: 111, 439
+  orig: 118, 440
+  offset: 5, 1
+  index: -1
+guangshu r4
+  rotate: false
+  xy: 1628, 441
+  size: 170, 424
+  orig: 179, 428
+  offset: 6, 2
+  index: -1

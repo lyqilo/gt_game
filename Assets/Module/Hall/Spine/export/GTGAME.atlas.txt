@@ -1,0 +1,223 @@
+
+GTGAME.png
+size: 1048,1680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BgLight
+  rotate: false
+  xy: 2, 871
+  size: 845, 806
+  orig: 845, 845
+  offset: 0, 39
+  index: -1
+Bottom
+  rotate: false
+  xy: 2, 2
+  size: 535, 525
+  orig: 536, 528
+  offset: 0, 3
+  index: -1
+Gold
+  rotate: true
+  xy: 719, 104
+  size: 467, 126
+  orig: 467, 126
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 539, 100
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+L1
+  rotate: true
+  xy: 539, 267
+  size: 47, 89
+  orig: 47, 89
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 637, 361
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+O1
+  rotate: false
+  xy: 637, 435
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 613, 156
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+S1
+  rotate: true
+  xy: 539, 207
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 539, 372
+  size: 57, 91
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+S3
+  rotate: false
+  xy: 785, 573
+  size: 58, 91
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+SlotsBg
+  rotate: true
+  xy: 849, 525
+  size: 608, 194
+  orig: 619, 198
+  offset: 3, 2
+  index: -1
+SlotsLight
+  rotate: false
+  xy: 785, 784
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+SlotsRocker
+  rotate: false
+  xy: 539, 431
+  size: 96, 96
+  orig: 101, 101
+  offset: 3, 3
+  index: -1
+Super
+  rotate: false
+  xy: 2, 656
+  size: 781, 213
+  orig: 785, 217
+  offset: 2, 2
+  index: -1
+SuperLight
+  rotate: false
+  xy: 2, 529
+  size: 715, 125
+  orig: 715, 125
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 611, 100
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+T1
+  rotate: true
+  xy: 539, 316
+  size: 54, 89
+  orig: 54, 89
+  offset: 0, 0
+  index: -1
+Winner
+  rotate: true
+  xy: 847, 213
+  size: 310, 189
+  orig: 312, 190
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: true
+  xy: 785, 727
+  size: 55, 62
+  orig: 56, 64
+  offset: 1, 2
+  index: -1
+coin2
+  rotate: true
+  xy: 719, 599
+  size: 55, 63
+  orig: 56, 64
+  offset: 0, 1
+  index: -1
+coin3
+  rotate: false
+  xy: 785, 666
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 630, 275
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 630, 215
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 682, 52
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+coin7
+  rotate: true
+  xy: 752, 53
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+coin8
+  rotate: false
+  xy: 539, 149
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 849, 1395
+  size: 282, 197
+  orig: 342, 269
+  offset: 27, 72
+  index: -1
+star2
+  rotate: true
+  xy: 849, 1135
+  size: 258, 197
+  orig: 314, 291
+  offset: 25, 66
+  index: -1
+star3
+  rotate: true
+  xy: 849, 1135
+  size: 258, 197
+  orig: 314, 305
+  offset: 25, 66
+  index: -1
+star4
+  rotate: false
+  xy: 847, 90
+  size: 167, 121
+  orig: 203, 197
+  offset: 16, 46
+  index: -1

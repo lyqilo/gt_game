@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GuiCamera
+  - GameManager
+  - BeginPanel
+  - WenXinTishi
+  - fish
+  - UiCamera
+  - gameFBX
+  - ParticleEffects
+  - CameraParent
+  - Camera3Dui
+  - gameNameList
+  - WalkPos
+  - SHZCanvas
+  - SHZ
+  - AnimatorCamera
+  - StopPos
+  - Effect
+  - FishParent
+  - Bullet
+  - Gold
+  - NextFishPosition
+  - Info
+  - fish_prize
+  - fish_border
+  - fish_promptBG
+  - GmaeTishi
+  - border
+  - shzxfj
+  - PlayerUiCamer
+  - WalkPosOut
+  - Begin
+  - rootFrameModule
+  - rootHallModule
+  - rootGameModule
+  - rootLogonModule
+  - rootChatModule
+  - hallGuiCamer
+  - gameGuiCamer
+  - dontDestroyOnLoad
+  - rootStartModule
+  - GetHttp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bullet
+  - 
+  - reflect
+  - 3D
+  - GlobalUI
+  - 
+  - shuihuzhuan
+  - 21dian
+  - buyu
+  - PlayerUICamer
+  - GodRay1
+  - GodRayDS1
+  - GodRayDS2
+  - Word
+  - framModule
+  - hallModule
+  - gameModule
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

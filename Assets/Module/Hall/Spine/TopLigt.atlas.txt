@@ -1,0 +1,13 @@
+
+TopLigt.png
+size: 652,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light1
+  rotate: false
+  xy: 2, 2
+  size: 647, 24
+  orig: 647, 27
+  offset: 0, 0
+  index: -1

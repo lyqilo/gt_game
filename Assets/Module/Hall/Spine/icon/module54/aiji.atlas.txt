@@ -1,0 +1,90 @@
+
+aiji.png
+size: 816,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinzita
+  rotate: true
+  xy: 663, 124
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+jinzita1
+  rotate: false
+  xy: 485, 99
+  size: 91, 115
+  orig: 91, 115
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 267, 90
+  size: 124, 216
+  orig: 125, 217
+  offset: 0, 1
+  index: -1
+shou zuo
+  rotate: true
+  xy: 562, 6
+  size: 91, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+shoubi you
+  rotate: true
+  xy: 749, 11
+  size: 46, 59
+  orig: 46, 63
+  offset: 0, 2
+  index: -1
+shoubi you2
+  rotate: true
+  xy: 673, 11
+  size: 39, 73
+  orig: 40, 73
+  offset: 1, 0
+  index: -1
+shouwan quanzhang
+  rotate: true
+  xy: 267, 2
+  size: 86, 293
+  orig: 86, 293
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 10
+  size: 263, 204
+  orig: 272, 226
+  offset: 4, 19
+  index: -1
+tou
+  rotate: false
+  xy: 578, 105
+  size: 83, 109
+  orig: 83, 130
+  offset: 0, 21
+  index: -1
+tou1
+  rotate: true
+  xy: 673, 52
+  size: 70, 74
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 751, 138
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+yao piaodai
+  rotate: false
+  xy: 751, 59
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1

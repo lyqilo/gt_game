@@ -1,0 +1,18 @@
+{
+    "name": "DragonBones_Unity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:567f8c2054d50e64a9b7a5b749a3b4d1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

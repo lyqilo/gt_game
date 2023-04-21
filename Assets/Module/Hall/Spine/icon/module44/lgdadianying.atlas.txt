@@ -1,0 +1,83 @@
+
+lgdadianying.png
+size: 620,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 500, 143
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 329, 8
+  size: 32, 69
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+arm3
+  rotate: false
+  xy: 267, 4
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 267, 79
+  size: 121, 144
+  orig: 122, 150
+  offset: 1, 1
+  index: -1
+body1
+  rotate: true
+  xy: 390, 92
+  size: 131, 108
+  orig: 139, 108
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 363, 27
+  size: 50, 38
+  orig: 50, 39
+  offset: 0, 1
+  index: -1
+hand1
+  rotate: false
+  xy: 547, 93
+  size: 48, 48
+  orig: 49, 48
+  offset: 1, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 500, 92
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 403, 2
+  size: 99, 88
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 504, 3
+  size: 87, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 19
+  size: 263, 204
+  orig: 281, 226
+  offset: 12, 19
+  index: -1

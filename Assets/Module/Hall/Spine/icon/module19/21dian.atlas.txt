@@ -1,0 +1,41 @@
+
+21dian.png
+size: 268,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 2, 582
+  size: 129, 98
+  orig: 129, 98
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 2, 208
+  size: 180, 195
+  orig: 181, 197
+  offset: 0, 1
+  index: -1
+maozi
+  rotate: false
+  xy: 133, 562
+  size: 126, 118
+  orig: 126, 119
+  offset: 0, 1
+  index: -1
+shandian
+  rotate: true
+  xy: 2, 390
+  size: 170, 244
+  orig: 170, 244
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 2
+  size: 263, 204
+  orig: 272, 226
+  offset: 6, 19
+  index: -1

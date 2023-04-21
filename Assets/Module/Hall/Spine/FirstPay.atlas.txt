@@ -1,0 +1,118 @@
+
+FirstPay.png
+size: 1532,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom
+  rotate: false
+  xy: 618, 37
+  size: 800, 489
+  orig: 800, 489
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: true
+  xy: 1420, 354
+  size: 172, 103
+  orig: 172, 103
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 1420, 229
+  size: 123, 109
+  orig: 123, 109
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 2, 2
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 105, 5
+  size: 77, 91
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: true
+  xy: 184, 2
+  size: 12, 36
+  orig: 24, 36
+  offset: 12, 0
+  index: -1
+coin6
+  rotate: true
+  xy: 232, 13
+  size: 24, 54
+  orig: 25, 54
+  offset: 1, 0
+  index: -1
+coin7
+  rotate: false
+  xy: 184, 16
+  size: 46, 80
+  orig: 46, 81
+  offset: 0, 1
+  index: -1
+light
+  rotate: true
+  xy: 2, 98
+  size: 939, 614
+  orig: 951, 626
+  offset: 6, 6
+  index: -1
+light1
+  rotate: false
+  xy: 618, 528
+  size: 825, 509
+  orig: 825, 509
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 232, 39
+  size: 56, 57
+  orig: 67, 67
+  offset: 6, 5
+  index: -1
+star2
+  rotate: false
+  xy: 232, 39
+  size: 56, 57
+  orig: 67, 67
+  offset: 6, 5
+  index: -1
+star3
+  rotate: false
+  xy: 232, 39
+  size: 56, 57
+  orig: 67, 67
+  offset: 6, 5
+  index: -1
+star4
+  rotate: false
+  xy: 232, 39
+  size: 56, 57
+  orig: 67, 67
+  offset: 6, 5
+  index: -1
+star5
+  rotate: false
+  xy: 232, 39
+  size: 56, 57
+  orig: 67, 67
+  offset: 6, 5
+  index: -1
+star6
+  rotate: false
+  xy: 232, 39
+  size: 56, 57
+  orig: 67, 67
+  offset: 6, 5
+  index: -1

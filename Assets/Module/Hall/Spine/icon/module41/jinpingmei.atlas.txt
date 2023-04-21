@@ -1,0 +1,209 @@
+
+jinpingmei.png
+size: 320,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong1
+  rotate: false
+  xy: 224, 76
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+hong2
+  rotate: true
+  xy: 257, 39
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+hong3
+  rotate: false
+  xy: 267, 287
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 96, 79
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 114, 83
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 230, 48
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 249, 16
+  size: 15, 21
+  orig: 16, 21
+  offset: 1, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 266, 227
+  size: 47, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: true
+  xy: 135, 76
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+hua7
+  rotate: true
+  xy: 157, 77
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+jianpang
+  rotate: false
+  xy: 68, 100
+  size: 26, 74
+  orig: 28, 75
+  offset: 1, 0
+  index: -1
+piaodai1
+  rotate: true
+  xy: 96, 108
+  size: 66, 126
+  orig: 67, 127
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 229, 199
+  size: 35, 90
+  orig: 35, 93
+  offset: 0, 3
+  index: -1
+piaodai3
+  rotate: false
+  xy: 2, 2
+  size: 24, 94
+  orig: 24, 95
+  offset: 0, 1
+  index: -1
+renwu
+  rotate: true
+  xy: 2, 176
+  size: 144, 225
+  orig: 144, 225
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 28, 6
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: true
+  xy: 33, 99
+  size: 70, 33
+  orig: 71, 35
+  offset: 1, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 322
+  size: 263, 204
+  orig: 272, 226
+  offset: 5, 19
+  index: -1
+toufa1
+  rotate: true
+  xy: 266, 17
+  size: 20, 42
+  orig: 21, 44
+  offset: 0, 1
+  index: -1
+toufa2
+  rotate: true
+  xy: 96, 9
+  size: 65, 132
+  orig: 66, 132
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 224, 124
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 267, 352
+  size: 49, 174
+  orig: 49, 174
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 230, 3
+  size: 17, 43
+  orig: 17, 44
+  offset: 0, 1
+  index: -1
+toufa6
+  rotate: true
+  xy: 135, 91
+  size: 15, 79
+  orig: 16, 79
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 266, 98
+  size: 127, 46
+  orig: 127, 47
+  offset: 0, 1
+  index: -1
+yixiu
+  rotate: false
+  xy: 2, 99
+  size: 29, 75
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: false
+  xy: 229, 171
+  size: 34, 26
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: true
+  xy: 224, 145
+  size: 24, 34
+  orig: 25, 36
+  offset: 1, 1
+  index: -1
+zi3
+  rotate: true
+  xy: 229, 291
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1

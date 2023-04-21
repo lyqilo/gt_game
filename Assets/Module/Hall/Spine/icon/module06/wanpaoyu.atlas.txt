@@ -1,0 +1,118 @@
+
+wanpaoyu.png
+size: 620,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ba
+  rotate: false
+  xy: 458, 2
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+bei1
+  rotate: true
+  xy: 575, 177
+  size: 94, 43
+  orig: 94, 44
+  offset: 0, 1
+  index: -1
+bei2
+  rotate: false
+  xy: 182, 15
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+bei3
+  rotate: false
+  xy: 458, 36
+  size: 59, 53
+  orig: 60, 53
+  offset: 1, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 462, 91
+  size: 180, 111
+  orig: 180, 111
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 519, 49
+  size: 59, 40
+  orig: 60, 41
+  offset: 1, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 91, 17
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 2, 9
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 67
+  size: 263, 204
+  orig: 272, 226
+  offset: 5, 19
+  index: -1
+toufa
+  rotate: true
+  xy: 575, 104
+  size: 71, 30
+  orig: 73, 31
+  offset: 0, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 375, 18
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 567, 7
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 267, 4
+  size: 106, 89
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 267, 95
+  size: 193, 176
+  orig: 195, 177
+  offset: 0, 1
+  index: -1
+zidan1
+  rotate: true
+  xy: 580, 58
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+zidan2
+  rotate: true
+  xy: 519, 3
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1

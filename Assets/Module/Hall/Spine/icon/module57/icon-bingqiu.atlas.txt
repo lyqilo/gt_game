@@ -1,0 +1,125 @@
+
+icon-bingqiu.png
+size: 572,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongrenwu
+  rotate: false
+  xy: 262, 9
+  size: 197, 252
+  orig: 197, 263
+  offset: 0, 3
+  index: -1
+hongrenwu1
+  rotate: true
+  xy: 410, 264
+  size: 128, 119
+  orig: 128, 137
+  offset: 0, 7
+  index: -1
+hongtoufa
+  rotate: true
+  xy: 2, 2
+  size: 37, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+hongyanbai you
+  rotate: true
+  xy: 78, 17
+  size: 22, 19
+  orig: 23, 21
+  offset: 1, 1
+  index: -1
+hongyanbai zuo
+  rotate: true
+  xy: 99, 2
+  size: 15, 17
+  orig: 16, 18
+  offset: 1, 0
+  index: -1
+hongyanqiu you
+  rotate: false
+  xy: 67, 3
+  size: 8, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+hongyanqiu zuo
+  rotate: false
+  xy: 77, 3
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+jiangpai
+  rotate: false
+  xy: 461, 8
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1
+lanrenwu
+  rotate: false
+  xy: 2, 251
+  size: 201, 275
+  orig: 203, 284
+  offset: 1, 8
+  index: -1
+lanrenwu1
+  rotate: true
+  xy: 410, 394
+  size: 132, 154
+  orig: 138, 156
+  offset: 3, 0
+  index: -1
+lanshou
+  rotate: false
+  xy: 461, 144
+  size: 108, 118
+  orig: 109, 118
+  offset: 1, 0
+  index: -1
+lanyanbai you
+  rotate: false
+  xy: 55, 13
+  size: 21, 26
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+lanyanbai zuo
+  rotate: true
+  xy: 99, 19
+  size: 20, 18
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+lanyanqiu you
+  rotate: true
+  xy: 55, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+lanyanqiu zuo
+  rotate: false
+  xy: 86, 3
+  size: 10, 12
+  orig: 11, 13
+  offset: 1, 0
+  index: -1
+qiugan
+  rotate: true
+  xy: 2, 41
+  size: 208, 258
+  orig: 208, 259
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 205, 263
+  size: 263, 203
+  orig: 281, 226
+  offset: 7, 20
+  index: -1

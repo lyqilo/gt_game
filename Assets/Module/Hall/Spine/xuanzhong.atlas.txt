@@ -1,0 +1,41 @@
+
+xuanzhong.png
+size: 224,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 2, 2
+  size: 220, 111
+  orig: 220, 111
+  offset: 0, 0
+  index: -1
+diban1
+  rotate: true
+  xy: 110, 117
+  size: 220, 111
+  orig: 220, 111
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: true
+  xy: 2, 339
+  size: 226, 117
+  orig: 226, 117
+  offset: 0, 0
+  index: -1
+shandeng1
+  rotate: true
+  xy: 121, 348
+  size: 217, 98
+  orig: 217, 98
+  offset: 0, 0
+  index: -1
+shandeng2
+  rotate: true
+  xy: 2, 115
+  size: 222, 106
+  orig: 223, 106
+  offset: 0, 0
+  index: -1

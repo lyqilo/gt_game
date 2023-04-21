@@ -1,0 +1,125 @@
+
+GTGAME1.png
+size: 1972,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BgLight
+  rotate: false
+  xy: 2, 2
+  size: 845, 806
+  orig: 845, 845
+  offset: 0, 39
+  index: -1
+Bottom
+  rotate: false
+  xy: 1255, 196
+  size: 484, 485
+  orig: 484, 485
+  offset: 0, 0
+  index: -1
+Bottom1
+  rotate: true
+  xy: 1064, 76
+  size: 732, 189
+  orig: 732, 196
+  offset: 0, 0
+  index: -1
+Super
+  rotate: true
+  xy: 849, 27
+  size: 781, 213
+  orig: 785, 217
+  offset: 2, 2
+  index: -1
+SuperLight
+  rotate: false
+  xy: 1255, 683
+  size: 715, 125
+  orig: 715, 125
+  offset: 0, 0
+  index: -1
+Winner
+  rotate: false
+  xy: 1288, 5
+  size: 310, 189
+  orig: 312, 190
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: false
+  xy: 1231, 12
+  size: 55, 62
+  orig: 56, 64
+  offset: 1, 2
+  index: -1
+coin2
+  rotate: false
+  xy: 1174, 11
+  size: 55, 63
+  orig: 56, 64
+  offset: 0, 1
+  index: -1
+coin3
+  rotate: false
+  xy: 1746, 78
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: true
+  xy: 1600, 50
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: true
+  xy: 1686, 54
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: true
+  xy: 1122, 6
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+coin7
+  rotate: true
+  xy: 1686, 145
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+coin8
+  rotate: true
+  xy: 1064, 4
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 1741, 399
+  size: 282, 197
+  orig: 342, 269
+  offset: 27, 72
+  index: -1
+star2
+  rotate: true
+  xy: 1741, 139
+  size: 258, 197
+  orig: 314, 291
+  offset: 25, 66
+  index: -1
+star3
+  rotate: true
+  xy: 1741, 139
+  size: 258, 197
+  orig: 314, 305
+  offset: 25, 66
+  index: -1

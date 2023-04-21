@@ -1,0 +1,20 @@
+
+weixuanzhong.png
+size: 184,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 72
+  size: 179, 76
+  orig: 179, 76
+  offset: 0, 0
+  index: -1
+ligt
+  rotate: false
+  xy: 2, 2
+  size: 171, 68
+  orig: 171, 68
+  offset: 0, 0
+  index: -1

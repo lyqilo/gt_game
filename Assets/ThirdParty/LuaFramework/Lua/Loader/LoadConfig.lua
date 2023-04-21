@@ -1,0 +1,20 @@
+--Config加载文件自动生成于：[1/9/2019 8:42:52 PM] by LJ
+--[[table.insert(luaFiles,"config/challengeLevel.lua");
+table.insert(luaFiles,"config/chijiGameReward.lua");
+table.insert(luaFiles,"config/danIntroduce.lua");
+table.insert(luaFiles,"config/defaultExpression.lua");
+table.insert(luaFiles,"config/defaultTextSound.lua");
+table.insert(luaFiles,"config/ErrorCode.lua");
+table.insert(luaFiles,"config/languageMap.lua");
+table.insert(luaFiles,"config/luckDraw.lua");
+table.insert(luaFiles,"config/mallConfigurationTableCurrency.lua");
+table.insert(luaFiles,"config/mallConfigurationTableGolds.lua");
+table.insert(luaFiles,"config/playerAniInfo.lua");
+table.insert(luaFiles,"config/prop.lua");
+table.insert(luaFiles,"config/roomType.lua");
+table.insert(luaFiles,"config/roomType_3.lua");
+table.insert(luaFiles,"config/roomType_4.lua");
+table.insert(luaFiles,"config/SigIn.lua");
+table.insert(luaFiles,"config/soundConfig.lua");
+table.insert(luaFiles,"config/task.lua");
+table.insert(luaFiles,"config/TipErrorCode.lua");--]]

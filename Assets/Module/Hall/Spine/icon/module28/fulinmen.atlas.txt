@@ -1,0 +1,104 @@
+
+fulinmen.png
+size: 856,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 565, 66
+  size: 98, 148
+  orig: 101, 151
+  offset: 0, 3
+  index: -1
+hulu
+  rotate: true
+  xy: 445, 27
+  size: 187, 118
+  orig: 187, 118
+  offset: 0, 0
+  index: -1
+huzi 1
+  rotate: true
+  xy: 445, 7
+  size: 18, 86
+  orig: 18, 86
+  offset: 0, 0
+  index: -1
+huzi 2
+  rotate: true
+  xy: 565, 38
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+huzi 3
+  rotate: true
+  xy: 533, 2
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+huzi 4
+  rotate: true
+  xy: 2, 2
+  size: 6, 48
+  orig: 6, 48
+  offset: 0, 0
+  index: -1
+huzi 5
+  rotate: false
+  xy: 816, 38
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+maozi you
+  rotate: true
+  xy: 621, 6
+  size: 58, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+maozi zuo
+  rotate: false
+  xy: 775, 98
+  size: 57, 41
+  orig: 62, 41
+  offset: 5, 0
+  index: -1
+piaodai you
+  rotate: false
+  xy: 775, 141
+  size: 79, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+piaodai zuo
+  rotate: false
+  xy: 665, 84
+  size: 108, 130
+  orig: 117, 148
+  offset: 9, 0
+  index: -1
+piaodai zuo1
+  rotate: true
+  xy: 669, 3
+  size: 79, 145
+  orig: 86, 174
+  offset: 6, 29
+  index: -1
+ren
+  rotate: true
+  xy: 275, 9
+  size: 205, 168
+  orig: 223, 250
+  offset: 3, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 10
+  size: 271, 204
+  orig: 283, 226
+  offset: 9, 19
+  index: -1

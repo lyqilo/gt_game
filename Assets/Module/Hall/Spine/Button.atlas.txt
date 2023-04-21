@@ -1,0 +1,34 @@
+
+Button.png
+size: 244,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPIN
+  rotate: false
+  xy: 2, 2
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+guangshu
+  rotate: true
+  xy: 2, 123
+  size: 287, 239
+  orig: 287, 245
+  offset: 0, 6
+  index: -1
+zhizhen
+  rotate: true
+  xy: 126, 79
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+zhizhenhong
+  rotate: true
+  xy: 126, 35
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1

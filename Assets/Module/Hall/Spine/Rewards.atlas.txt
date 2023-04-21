@@ -1,0 +1,20 @@
+
+Rewards.png
+size: 468,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangshu
+  rotate: false
+  xy: 2, 2
+  size: 287, 239
+  orig: 287, 245
+  offset: 0, 6
+  index: -1
+xuankuang
+  rotate: false
+  xy: 291, 49
+  size: 175, 192
+  orig: 175, 192
+  offset: 0, 0
+  index: -1

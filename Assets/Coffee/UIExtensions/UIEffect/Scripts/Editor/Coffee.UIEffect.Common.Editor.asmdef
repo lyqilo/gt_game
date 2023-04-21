@@ -1,0 +1,19 @@
+{
+    "name": "Coffee.UIEffect.Common.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf8d08b300bea8141b9501bd870e3538",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

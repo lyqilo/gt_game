@@ -1,0 +1,209 @@
+
+SuperWinner.png
+size: 1656,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottom
+  rotate: true
+  xy: 2, 18
+  size: 535, 525
+  orig: 536, 528
+  offset: 0, 3
+  index: -1
+Gold
+  rotate: false
+  xy: 529, 190
+  size: 469, 178
+  orig: 476, 178
+  offset: 7, 0
+  index: -1
+L
+  rotate: false
+  xy: 1250, 9
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+L1
+  rotate: false
+  xy: 1250, 80
+  size: 47, 89
+  orig: 47, 89
+  offset: 0, 0
+  index: -1
+O
+  rotate: true
+  xy: 1176, 94
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+O1
+  rotate: true
+  xy: 1096, 5
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 1513, 221
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 1457, 130
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 1003, 14
+  size: 57, 91
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+S3
+  rotate: true
+  xy: 823, 7
+  size: 58, 91
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+SlotsBg
+  rotate: true
+  xy: 1301, 10
+  size: 543, 154
+  orig: 543, 154
+  offset: 0, 0
+  index: -1
+SlotsLight
+  rotate: true
+  xy: 916, 3
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+SlotsRocker
+  rotate: false
+  xy: 992, 73
+  size: 96, 96
+  orig: 101, 101
+  offset: 3, 3
+  index: -1
+Super
+  rotate: false
+  xy: 529, 370
+  size: 770, 183
+  orig: 771, 184
+  offset: 0, 1
+  index: -1
+T
+  rotate: true
+  xy: 1457, 2
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 1457, 204
+  size: 54, 89
+  orig: 54, 89
+  offset: 0, 0
+  index: -1
+Winner
+  rotate: false
+  xy: 529, 11
+  size: 292, 177
+  orig: 294, 178
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: false
+  xy: 1517, 157
+  size: 55, 62
+  orig: 56, 64
+  offset: 1, 2
+  index: -1
+coin2
+  rotate: false
+  xy: 1528, 4
+  size: 55, 63
+  orig: 56, 64
+  offset: 0, 1
+  index: -1
+coin3
+  rotate: false
+  xy: 1515, 69
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: true
+  xy: 1090, 82
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: true
+  xy: 1190, 9
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: true
+  xy: 1572, 225
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+coin7
+  rotate: false
+  xy: 1574, 170
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+coin8
+  rotate: true
+  xy: 1457, 58
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 1000, 171
+  size: 282, 197
+  orig: 342, 269
+  offset: 27, 72
+  index: -1
+star2
+  rotate: true
+  xy: 1457, 295
+  size: 258, 197
+  orig: 314, 291
+  offset: 25, 66
+  index: -1
+star3
+  rotate: true
+  xy: 1457, 295
+  size: 258, 197
+  orig: 314, 305
+  offset: 25, 66
+  index: -1
+star4
+  rotate: false
+  xy: 823, 67
+  size: 167, 121
+  orig: 203, 197
+  offset: 16, 46
+  index: -1
