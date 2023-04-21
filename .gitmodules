@@ -1,0 +1,120 @@
+[submodule "Assets/OtherScene/module03"]
+	path = Assets/OtherScene/module03
+	url = git@github.com:lyqilo/module03.git
+[submodule "Assets/OtherScene/module06"]
+	path = Assets/OtherScene/module06
+	url = git@github.com:lyqilo/wanpaobuyu.git
+[submodule "Assets/OtherScene/module16"]
+	path = Assets/OtherScene/module16
+	url = git@github.com:lyqilo/zhipailaohuji.git
+[submodule "Assets/OtherScene/module22"]
+	path = Assets/OtherScene/module22
+	url = git@github.com:lyqilo/shuiguo777.git
+[submodule "Assets/OtherScene/module24"]
+	path = Assets/OtherScene/module24
+	url = git@github.com:lyqilo/longzhutanbao.git
+[submodule "Assets/OtherScene/module25"]
+	path = Assets/OtherScene/module25
+	url = git@github.com:lyqilo/caomeilaohuji.git
+[submodule "Assets/OtherScene/module27"]
+	path = Assets/OtherScene/module27
+	url = git@github.com:lyqilo/caishendao.git
+[submodule "Assets/OtherScene/module28"]
+	path = Assets/OtherScene/module28
+	url = git@github.com:lyqilo/fulinmen.git
+[submodule "Assets/OtherScene/module32"]
+	path = Assets/OtherScene/module32
+	url = git@github.com:lyqilo/dianqiudazhan.git
+[submodule "Assets/OtherScene/module33"]
+	path = Assets/OtherScene/module33
+	url = git@github.com:lyqilo/huxiaolongyin.git
+[submodule "Assets/OtherScene/module38"]
+	path = Assets/OtherScene/module38
+	url = git@github.com:lyqilo/zhanguoshiji.git
+[submodule "Assets/OtherScene/module39"]
+	path = Assets/OtherScene/module39
+	url = git@github.com:lyqilo/taojinzhe.git
+[submodule "Assets/OtherScene/module40"]
+	path = Assets/OtherScene/module40
+	url = git@github.com:lyqilo/tiaogaogao.git
+[submodule "Assets/OtherScene/module41"]
+	path = Assets/OtherScene/module41
+	url = git@github.com:lyqilo/jinpingmei.git
+[submodule "Assets/OtherScene/module42"]
+	path = Assets/OtherScene/module42
+	url = git@github.com:lyqilo/yueguangbaohe.git
+[submodule "Assets/OtherScene/module43"]
+	path = Assets/OtherScene/module43
+	url = git@github.com:lyqilo/bairenniuniu.git
+[submodule "Assets/OtherScene/module44"]
+	path = Assets/OtherScene/module44
+	url = git@github.com:lyqilo/legaodadianying.git
+[submodule "Assets/OtherScene/module45"]
+	path = Assets/OtherScene/module45
+	url = git@github.com:lyqilo/wulongzhengba.git
+[submodule "Assets/OtherScene/module46"]
+	path = Assets/OtherScene/module46
+	url = git@github.com:lyqilo/mengchongdazuozhan.git
+[submodule "Assets/OtherScene/module47"]
+	path = Assets/OtherScene/module47
+	url = git@github.com:lyqilo/xingyunshuiguoji.git
+[submodule "Assets/OtherScene/module48"]
+	path = Assets/OtherScene/module48
+	url = git@github.com:lyqilo/fuxinggaozhao.git
+[submodule "Assets/OtherScene/module49"]
+	path = Assets/OtherScene/module49
+	url = git@github.com:lyqilo/wushizhansha.git
+[submodule "Assets/OtherScene/module50"]
+	path = Assets/OtherScene/module50
+	url = git@github.com:lyqilo/shanghaitan.git
+[submodule "Assets/OtherScene/module51"]
+	path = Assets/OtherScene/module51
+	url = git@github.com:lyqilo/shuiguoxiaomali.git
+[submodule "Assets/OtherScene/module52"]
+	path = Assets/OtherScene/module52
+	url = git@github.com:lyqilo/shiershengxiao.git
+[submodule "Assets/OtherScene/module53"]
+	path = Assets/OtherScene/module53
+	url = git@github.com:lyqilo/saima.git
+[submodule "Assets/OtherScene/module54"]
+	path = Assets/OtherScene/module54
+	url = git@github.com:lyqilo/aijidamaoxian.git
+[submodule "Assets/OtherScene/module55"]
+	path = Assets/OtherScene/module55
+	url = git@github.com:lyqilo/tongbiniuniu.git
+[submodule "Assets/OtherScene/module56"]
+	path = Assets/OtherScene/module56
+	url = git@github.com:lyqilo/jinshuyingchun.git
+[submodule "Assets/OtherScene/module57"]
+	path = Assets/OtherScene/module57
+	url = git@github.com:lyqilo/bingqiutupo.git
+[submodule "Assets/OtherScene/module58"]
+	path = Assets/OtherScene/module58
+	url = git@github.com:lyqilo/jinzhusongfu.git
+[submodule "Assets/OtherScene/module59"]
+	path = Assets/OtherScene/module59
+	url = git@github.com:lyqilo/zhuzixiongmao.git
+[submodule "Assets/OtherScene/module60"]
+	path = Assets/OtherScene/module60
+	url = git@github.com:lyqilo/jietoujinwu.git
+[submodule "Assets/OtherScene/module61"]
+	path = Assets/OtherScene/module61
+	url = git@github.com:lyqilo/toukui.git
+[submodule "Assets/OtherScene/module62"]
+	path = Assets/OtherScene/module62
+	url = git@github.com:lyqilo/longtengbuyu.git
+[submodule "Assets/OtherScene/module63"]
+	path = Assets/OtherScene/module63
+	url = git@github.com:lyqilo/majianghule.git
+[submodule "Assets/OtherScene/module17"]
+	path = Assets/OtherScene/module17
+	url = git@github.com:lyqilo/chuhehanjie.git
+[submodule "Assets/OtherScene/module18"]
+	path = Assets/OtherScene/module18
+	url = git@github.com:lyqilo/shuihuzhuan.git
+[submodule "Assets/OtherScene/module19"]
+	path = Assets/OtherScene/module19
+	url = git@github.com:lyqilo/21dian.git
+[submodule "Assets/OtherScene/module20"]
+	path = Assets/OtherScene/module20
+	url = git@github.com:lyqilo/baijiale.git
