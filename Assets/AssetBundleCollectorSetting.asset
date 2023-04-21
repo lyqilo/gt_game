@@ -14,85 +14,508 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShowPackageView: 0
   EnableAddressable: 1
-  UniqueBundleName: 0
+  UniqueBundleName: 1
   ShowEditorAlias: 0
   Packages:
-  - PackageName: HallPackage
-    PackageDesc: "\u5927\u5385"
+  - PackageName: GamePackage
+    PackageDesc: "\u5B50\u6E38\u620F"
     Groups:
-    - GroupName: Hall
-      GroupDesc: "\u754C\u9762"
-      AssetTags: 
+    - GroupName: module03
+      GroupDesc: "\u6B22\u4E50\u725B\u725B"
+      AssetTags: module03
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/Module/Hall/Prefab
-        CollectorGUID: 58bacdaf3a027c340af5467d90e3076c
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectPrefab
-        AssetTags: 
-      - CollectPath: Assets/TempLua/Out
-        CollectorGUID: 
+      - CollectPath: Assets/OtherScene/module03/module03.unity
+        CollectorGUID: 2f88f783b69dcef4bb8e24d177f4fbfb
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
         FilterRuleName: CollectAll
         AssetTags: 
-      - CollectPath: Assets/Scene
-        CollectorGUID: 0e0c511e9c82c1043bb61464e6488d6f
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectAll
-        AssetTags: 
-      - CollectPath: Assets/Module/Hall/Texture/SJ
-        CollectorGUID: e8b6c3f7502840a4d931f7b35c78e01d
-        CollectorType: 2
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackTopDirectory
-        FilterRuleName: CollectSprite
-        AssetTags: 
-      - CollectPath: Assets/Res/CodeAOT
-        CollectorGUID: 
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectAll
-        AssetTags: 
-      - CollectPath: Assets/Module/Hall/SpriteAtlas/Hall_Title.spriteatlas
-        CollectorGUID: 939c22ab1c30a95478a38d2c64ea243a
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectAll
-        AssetTags: 
-      - CollectPath: Assets/Module/Hall/SpriteAtlas/Hall_LeaderBoard.spriteatlas
-        CollectorGUID: ff2edc13e6ac05c44aa4c9a0ab5ca6a1
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectAll
-        AssetTags: 
-      - CollectPath: Assets/Module/Hall/SpriteAtlas/Hall_Item.spriteatlas
-        CollectorGUID: 79e4e5c5f7bf94d4da82cd8bec522288
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectAll
-        AssetTags: 
-  - PackageName: LaunchPackage
-    PackageDesc: "loading\u754C\u9762"
-    Groups:
-    - GroupName: Launch
-      GroupDesc: loading
-      AssetTags: 
+    - GroupName: module06
+      GroupDesc: "\u6355\u9C7C"
+      AssetTags: module06
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/Module/Launch/Prefab
-        CollectorGUID: cf2c72daf0c4ab84cbdfd00eb57647e3
+      - CollectPath: Assets/OtherScene/module06/module06.unity
+        CollectorGUID: 339e66dec93b59b44a83208ddfc3c7e7
         CollectorType: 0
         AddressRuleName: AddressByFileName
-        PackRuleName: PackSeparately
-        FilterRuleName: CollectPrefab
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module13
+      GroupDesc: "\u529F\u592B\u718A\u732B"
+      AssetTags: module13
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module13/module13.unity
+        CollectorGUID: f8249d21617d46b41bfc0230210af269
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module16
+      GroupDesc: "\u7EB8\u724C\u8001\u864E\u673A"
+      AssetTags: module16
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module16/module16.unity
+        CollectorGUID: dae984c8ce5a6f04da7d895a95fcb3c8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module17
+      GroupDesc: "\u695A\u6CB3\u6C49\u754C"
+      AssetTags: module17
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module17/module17.unity
+        CollectorGUID: cd20cc8de42b190488ecd13ee74eb412
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module18
+      GroupDesc: "\u6C34\u6D52\u4F20"
+      AssetTags: module18
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module18/module18.unity
+        CollectorGUID: 77c69c127f020cb46b8dc3a68ed0e7df
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module19
+      GroupDesc: "21\u70B9"
+      AssetTags: module19
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module19/module19.unity
+        CollectorGUID: 2367870e56ce6f346b571eb9cd916e80
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module20
+      GroupDesc: "\u767E\u5BB6\u4E50"
+      AssetTags: module20
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module20/module20.unity
+        CollectorGUID: 8a31d81da234c094b8ee92de8b635b32
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module22
+      GroupDesc: "\u6C34\u679C777"
+      AssetTags: module22
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module22/module22.unity
+        CollectorGUID: e38a44299b49cd24ba4eb17c1cc271ea
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module24
+      GroupDesc: "\u9F99\u73E0\u63A2\u5B9D"
+      AssetTags: module24
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module24/module24.unity
+        CollectorGUID: dc52ea550cce04e43905ad4ccfa42170
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module25
+      GroupDesc: "\u8349\u8393\u8001\u864E\u673A"
+      AssetTags: module25
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module25/module25.unity
+        CollectorGUID: 294e42ad9a9ea214ab0fb184e6ad03f9
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module27
+      GroupDesc: "\u8D22\u795E\u5230"
+      AssetTags: module27
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module27/module27.unity
+        CollectorGUID: 68df4e61ba5fd29459c134e2bfb1175d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module28
+      GroupDesc: "\u798F\u4E34\u95E8"
+      AssetTags: module28
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module28/module28.unity
+        CollectorGUID: fe014ac2eaf84ef43843516ad751da13
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module32
+      GroupDesc: "\u70B9\u7403\u5927\u6218"
+      AssetTags: module32
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module32/module32.unity
+        CollectorGUID: 26cf98d16c8ef60408687c260a622953
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module33
+      GroupDesc: "\u864E\u5578\u9F99\u541F"
+      AssetTags: module33
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module33/module33.unity
+        CollectorGUID: e550862a94634504a80e3340cc6df066
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module38
+      GroupDesc: "\u6218\u56FD\u53F2\u8BB0"
+      AssetTags: module38
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module38/module38.unity
+        CollectorGUID: 47f4df1b849d6404a841cd216ba38610
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module39
+      GroupDesc: "\u6DD8\u91D1\u8005"
+      AssetTags: module39
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module39/module39.unity
+        CollectorGUID: d125d0ee372c67649aacc90343bc970d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module40
+      GroupDesc: "\u8DF3\u9AD8\u9AD8"
+      AssetTags: module40
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module40/module40.unity
+        CollectorGUID: e3bfd3a9dde7a1b4bb33e412848e97d6
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module41
+      GroupDesc: "\u91D1\u74F6\u6885"
+      AssetTags: module41
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module41/module41.unity
+        CollectorGUID: e4002529d2201ae4faed821b8db49b53
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module42
+      GroupDesc: "\u6708\u5149\u5B9D\u76D2"
+      AssetTags: module42
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module42/module42.unity
+        CollectorGUID: bca01e99e7663b349bcaddc823487da5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module43
+      GroupDesc: "\u767E\u4EBA\u725B\u725B"
+      AssetTags: module43
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module43/module43.unity
+        CollectorGUID: 43d9f7f01b00c7945b160851df9cf7a7
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module44
+      GroupDesc: "\u4E50\u9AD8\u5927\u7535\u5F71"
+      AssetTags: module44
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module44/module44.unity
+        CollectorGUID: c44188eded65d6c4d941989d6f814942
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module45
+      GroupDesc: "\u4E94\u9F99\u4E89\u9738"
+      AssetTags: module45
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module45/module45.unity
+        CollectorGUID: 9a1fc67c1260b484b9b683b5d172862f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module46
+      GroupDesc: "\u840C\u5BA0\u5927\u4F5C\u6218"
+      AssetTags: module46
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module46/module46.unity
+        CollectorGUID: 2aec7fa11bac764488becda45d4dcb91
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module47
+      GroupDesc: "\u5E78\u8FD0\u6C34\u679C\u673A"
+      AssetTags: module47
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module47/module47.unity
+        CollectorGUID: d27bfa8294fcdf54598e72836beadff5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module48
+      GroupDesc: "\u798F\u661F\u9AD8\u7167"
+      AssetTags: module48
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module48/module48.unity
+        CollectorGUID: 8f262bf476a8ae841a45c163e808966f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module49
+      GroupDesc: "\u6B66\u58EB\u65A9\u6740"
+      AssetTags: module49
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module49/module49.unity
+        CollectorGUID: 7ec7a02442d07694ea1410a34d0e323f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module50
+      GroupDesc: "\u4E0A\u6D77\u6EE9"
+      AssetTags: module50
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module50/module50.unity
+        CollectorGUID: bee569f97225c7f4d91d4d4a61b3bcd7
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module51
+      GroupDesc: "\u6C34\u679C\u5C0F\u739B\u5229"
+      AssetTags: module51
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module51/module51.unity
+        CollectorGUID: 13809c7209f41024fa62273b3aeffa89
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module52
+      GroupDesc: "\u5341\u4E8C\u751F\u8096"
+      AssetTags: module52
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module52/module52.unity
+        CollectorGUID: fa8adf67c78ee0847b75f292a037b933
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module53
+      GroupDesc: "\u8D5B\u9A6C"
+      AssetTags: module53
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module53/module53.unity
+        CollectorGUID: 0732f93a84d584944ab0656695479748
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module54
+      GroupDesc: "\u57C3\u53CA\u5927\u5192\u9669"
+      AssetTags: module54
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module54/module54.unity
+        CollectorGUID: 74b0fd995efe0a14bb84dc94067b35c6
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module55
+      GroupDesc: "\u901A\u6BD4\u725B\u725B"
+      AssetTags: module55
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module55/module55.unity
+        CollectorGUID: 02fc4ed3497368442bbf2f416d677789
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module56
+      GroupDesc: "\u91D1\u9F20\u8FCE\u6625"
+      AssetTags: module56
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module56/module56.unity
+        CollectorGUID: 4f3ec441e471b61448f7851bb8eb3829
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module57
+      GroupDesc: "\u51B0\u7403\u7A81\u7834"
+      AssetTags: module57
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module57/module57.unity
+        CollectorGUID: f8ede41017cebc345b8b8f2c92210f8e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module58
+      GroupDesc: "\u91D1\u732A\u9001\u798F"
+      AssetTags: module58
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module58/module58.unity
+        CollectorGUID: 5017f887b27925945b63ad1021c0087d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module59
+      GroupDesc: "\u718A\u732B\u7AF9\u5B50"
+      AssetTags: module59
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module59/module59.unity
+        CollectorGUID: 9184a89702b3f05408b248b0bce84f19
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module60
+      GroupDesc: "\u8857\u821E"
+      AssetTags: module60
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module60/module60.unity
+        CollectorGUID: 057810d529ced064b8c1c7e7b9d254b7
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module61
+      GroupDesc: "\u5077\u7AA5"
+      AssetTags: module61
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module61/module61.unity
+        CollectorGUID: cff14ea5917f03242a84860800b66a8a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module62
+      GroupDesc: "\u9F99\u817E\u6355\u9C7C"
+      AssetTags: module62
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module62/module62.unity
+        CollectorGUID: 40bd9d3096a79174db26aa8def4ce96d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+      - CollectPath: Assets/OtherScene/module62/Prefab
+        CollectorGUID: 992d611264d7d9e4fa7c9dfce95c2161
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: module63
+      GroupDesc: "\u9EBB\u5C06\u80E1\u4E86"
+      AssetTags: module63
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/OtherScene/module63/module63.unity
+        CollectorGUID: fdeb057a9d2c35845975f822d8868767
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
         AssetTags: 

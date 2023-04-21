@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="2.1">
+  <Common AutoAddressable="True" UniqueBundleName="True" ShowPackageView="False" />
+  <Package PackageName="GamePackage" PackageDesc="子游戏">
+    <Group GroupName="module03" GroupDesc="欢乐牛牛" AssetTags="module03">
+      <Collector CollectPath="Assets/OtherScene/module03/module03.unity" CollectGUID="2f88f783b69dcef4bb8e24d177f4fbfb" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module06" GroupDesc="捕鱼" AssetTags="module06">
+      <Collector CollectPath="Assets/OtherScene/module06/module06.unity" CollectGUID="339e66dec93b59b44a83208ddfc3c7e7" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module13" GroupDesc="功夫熊猫" AssetTags="module13">
+      <Collector CollectPath="Assets/OtherScene/module13/module13.unity" CollectGUID="f8249d21617d46b41bfc0230210af269" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module16" GroupDesc="纸牌老虎机" AssetTags="module16">
+      <Collector CollectPath="Assets/OtherScene/module16/module16.unity" CollectGUID="dae984c8ce5a6f04da7d895a95fcb3c8" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module17" GroupDesc="楚河汉界" AssetTags="module17">
+      <Collector CollectPath="Assets/OtherScene/module17/module17.unity" CollectGUID="cd20cc8de42b190488ecd13ee74eb412" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module18" GroupDesc="水浒传" AssetTags="module18">
+      <Collector CollectPath="Assets/OtherScene/module18/module18.unity" CollectGUID="77c69c127f020cb46b8dc3a68ed0e7df" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module19" GroupDesc="21点" AssetTags="module19">
+      <Collector CollectPath="Assets/OtherScene/module19/module19.unity" CollectGUID="2367870e56ce6f346b571eb9cd916e80" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module20" GroupDesc="百家乐" AssetTags="module20">
+      <Collector CollectPath="Assets/OtherScene/module20/module20.unity" CollectGUID="8a31d81da234c094b8ee92de8b635b32" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module22" GroupDesc="水果777" AssetTags="module22">
+      <Collector CollectPath="Assets/OtherScene/module22/module22.unity" CollectGUID="e38a44299b49cd24ba4eb17c1cc271ea" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module24" GroupDesc="龙珠探宝" AssetTags="module24">
+      <Collector CollectPath="Assets/OtherScene/module24/module24.unity" CollectGUID="dc52ea550cce04e43905ad4ccfa42170" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module25" GroupDesc="草莓老虎机" AssetTags="module25">
+      <Collector CollectPath="Assets/OtherScene/module25/module25.unity" CollectGUID="294e42ad9a9ea214ab0fb184e6ad03f9" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module27" GroupDesc="财神到" AssetTags="module27">
+      <Collector CollectPath="Assets/OtherScene/module27/module27.unity" CollectGUID="68df4e61ba5fd29459c134e2bfb1175d" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module28" GroupDesc="福临门" AssetTags="module28">
+      <Collector CollectPath="Assets/OtherScene/module28/module28.unity" CollectGUID="fe014ac2eaf84ef43843516ad751da13" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module32" GroupDesc="点球大战" AssetTags="module32">
+      <Collector CollectPath="Assets/OtherScene/module32/module32.unity" CollectGUID="26cf98d16c8ef60408687c260a622953" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module33" GroupDesc="虎啸龙吟" AssetTags="module33">
+      <Collector CollectPath="Assets/OtherScene/module33/module33.unity" CollectGUID="e550862a94634504a80e3340cc6df066" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module38" GroupDesc="战国史记" AssetTags="module38">
+      <Collector CollectPath="Assets/OtherScene/module38/module38.unity" CollectGUID="47f4df1b849d6404a841cd216ba38610" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module39" GroupDesc="淘金者" AssetTags="module39">
+      <Collector CollectPath="Assets/OtherScene/module39/module39.unity" CollectGUID="d125d0ee372c67649aacc90343bc970d" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module40" GroupDesc="跳高高" AssetTags="module40">
+      <Collector CollectPath="Assets/OtherScene/module40/module40.unity" CollectGUID="e3bfd3a9dde7a1b4bb33e412848e97d6" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module41" GroupDesc="金瓶梅" AssetTags="module41">
+      <Collector CollectPath="Assets/OtherScene/module41/module41.unity" CollectGUID="e4002529d2201ae4faed821b8db49b53" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module42" GroupDesc="月光宝盒" AssetTags="module42">
+      <Collector CollectPath="Assets/OtherScene/module42/module42.unity" CollectGUID="bca01e99e7663b349bcaddc823487da5" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module43" GroupDesc="百人牛牛" AssetTags="module43">
+      <Collector CollectPath="Assets/OtherScene/module43/module43.unity" CollectGUID="43d9f7f01b00c7945b160851df9cf7a7" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module44" GroupDesc="乐高大电影" AssetTags="module44">
+      <Collector CollectPath="Assets/OtherScene/module44/module44.unity" CollectGUID="c44188eded65d6c4d941989d6f814942" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module45" GroupDesc="五龙争霸" AssetTags="module45">
+      <Collector CollectPath="Assets/OtherScene/module45/module45.unity" CollectGUID="9a1fc67c1260b484b9b683b5d172862f" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module46" GroupDesc="萌宠大作战" AssetTags="module46">
+      <Collector CollectPath="Assets/OtherScene/module46/module46.unity" CollectGUID="2aec7fa11bac764488becda45d4dcb91" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module47" GroupDesc="幸运水果机" AssetTags="module47">
+      <Collector CollectPath="Assets/OtherScene/module47/module47.unity" CollectGUID="d27bfa8294fcdf54598e72836beadff5" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module48" GroupDesc="福星高照" AssetTags="module48">
+      <Collector CollectPath="Assets/OtherScene/module48/module48.unity" CollectGUID="8f262bf476a8ae841a45c163e808966f" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module49" GroupDesc="武士斩杀" AssetTags="module49">
+      <Collector CollectPath="Assets/OtherScene/module49/module49.unity" CollectGUID="7ec7a02442d07694ea1410a34d0e323f" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module50" GroupDesc="上海滩" AssetTags="module50">
+      <Collector CollectPath="Assets/OtherScene/module50/module50.unity" CollectGUID="bee569f97225c7f4d91d4d4a61b3bcd7" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module51" GroupDesc="水果小玛利" AssetTags="module51">
+      <Collector CollectPath="Assets/OtherScene/module51/module51.unity" CollectGUID="13809c7209f41024fa62273b3aeffa89" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module52" GroupDesc="十二生肖" AssetTags="module52">
+      <Collector CollectPath="Assets/OtherScene/module52/module52.unity" CollectGUID="fa8adf67c78ee0847b75f292a037b933" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module53" GroupDesc="赛马" AssetTags="module53">
+      <Collector CollectPath="Assets/OtherScene/module53/module53.unity" CollectGUID="0732f93a84d584944ab0656695479748" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module54" GroupDesc="埃及大冒险" AssetTags="module54">
+      <Collector CollectPath="Assets/OtherScene/module54/module54.unity" CollectGUID="74b0fd995efe0a14bb84dc94067b35c6" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module55" GroupDesc="通比牛牛" AssetTags="module55">
+      <Collector CollectPath="Assets/OtherScene/module55/module55.unity" CollectGUID="02fc4ed3497368442bbf2f416d677789" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module56" GroupDesc="金鼠迎春" AssetTags="module56">
+      <Collector CollectPath="Assets/OtherScene/module56/module56.unity" CollectGUID="4f3ec441e471b61448f7851bb8eb3829" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module57" GroupDesc="冰球突破" AssetTags="module57">
+      <Collector CollectPath="Assets/OtherScene/module57/module57.unity" CollectGUID="f8ede41017cebc345b8b8f2c92210f8e" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module58" GroupDesc="金猪送福" AssetTags="module58">
+      <Collector CollectPath="Assets/OtherScene/module58/module58.unity" CollectGUID="5017f887b27925945b63ad1021c0087d" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module59" GroupDesc="熊猫竹子" AssetTags="module59">
+      <Collector CollectPath="Assets/OtherScene/module59/module59.unity" CollectGUID="9184a89702b3f05408b248b0bce84f19" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module60" GroupDesc="街舞" AssetTags="module60">
+      <Collector CollectPath="Assets/OtherScene/module60/module60.unity" CollectGUID="057810d529ced064b8c1c7e7b9d254b7" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module61" GroupDesc="偷窥" AssetTags="module61">
+      <Collector CollectPath="Assets/OtherScene/module61/module61.unity" CollectGUID="cff14ea5917f03242a84860800b66a8a" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module62" GroupDesc="龙腾捕鱼" AssetTags="module62">
+      <Collector CollectPath="Assets/OtherScene/module62/module62.unity" CollectGUID="40bd9d3096a79174db26aa8def4ce96d" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+      <Collector CollectPath="Assets/OtherScene/module62/Prefab" CollectGUID="992d611264d7d9e4fa7c9dfce95c2161" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+    <Group GroupName="module63" GroupDesc="麻将胡了" AssetTags="module63">
+      <Collector CollectPath="Assets/OtherScene/module63/module63.unity" CollectGUID="fdeb057a9d2c35845975f822d8868767" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    </Group>
+  </Package>
+</root>
