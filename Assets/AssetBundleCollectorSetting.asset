@@ -47,15 +47,8 @@ MonoBehaviour:
     - GroupName: module13
       GroupDesc: "\u529F\u592B\u718A\u732B"
       AssetTags: module13
-      ActiveRuleName: EnableGroup
-      Collectors:
-      - CollectPath: Assets/OtherScene/module13/module13.unity
-        CollectorGUID: f8249d21617d46b41bfc0230210af269
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackDirectory
-        FilterRuleName: CollectAll
-        AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors: []
     - GroupName: module16
       GroupDesc: "\u7EB8\u724C\u8001\u864E\u673A"
       AssetTags: module16
