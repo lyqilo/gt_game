@@ -118,3 +118,6 @@
 [submodule "Assets/OtherScene/module20"]
 	path = Assets/OtherScene/module20
 	url = git@github.com:lyqilo/baijiale.git
+[submodule "Assets/OtherScene/module65"]
+	path = Assets/OtherScene/module65
+	url = git@github.com:lyqilo/gamecrash.git
